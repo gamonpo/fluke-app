@@ -1,4 +1,3 @@
-import {HeaderTitle} from '@react-navigation/stack';
 import React from 'react';
 
 import {Container, Header, Title, Button, Enter} from './styles';
